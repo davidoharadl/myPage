@@ -1,2 +1,2 @@
 # myPage
-HTML, CSS e JS intro RockeatSeat
+HTML, CSS e JS intro LaunchBase
